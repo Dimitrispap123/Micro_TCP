@@ -38,4 +38,3 @@ Ensure you have:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Dimitrispap123/micro_tcp.git
-   cd micro_tcp
